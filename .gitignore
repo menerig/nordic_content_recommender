@@ -21,3 +21,5 @@ Thumbs.db
 # Logs & temp
 *.log
 *.tmp
+*.pkl
+data/*.pkl
